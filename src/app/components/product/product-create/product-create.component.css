@@ -1,0 +1,10 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.botoes {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
